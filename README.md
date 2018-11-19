@@ -1,4 +1,4 @@
-# sensor-daemons
+# daimon
 We at Corlina are creating this project to share the applications we have written to capture IoT sensor data. Our use cases are specifically targeted at Industrial IoT including manufacturing floors, warehouses, and even retail spaces.
 # Motivation
 We are hoping to create a community that will improve on what we have and also contribute new applications to this repository.
@@ -12,3 +12,8 @@ Here are some basic principles for contributing:
 1. Any other notes that may be beneficial to the end user
 # Code of Conduct
 Please refer to the CODE_OF_CONDUCT.md file in this directory. Report any violations to info@corlina.com
+
+# Origin for the word Daimon
+From https://en.wikipedia.org/wiki/Daemon_(classical_mythology)
+"Daemon is the Latin word for the Ancient Greek daimon (δαίμων: "god", "godlike", "power", "fate"), which originally referred to a lesser deity or guiding spirit; the daemons of ancient Greek religion and mythology and of later Hellenistic religion and philosophy.
+The word is derived from Proto-Indo-European *daimon "provider, divider (of fortunes or destinies)", from the root *da- "to divide". Daimons were possibly seen as the souls of men of the golden age acting as tutelary deities."
