@@ -10,3 +10,5 @@ Here are some basic principles for contributing:
 1. Test your application throughly and include the steps and results to help others
 1. Include any caveats where the application may not work as expected
 1. Any other notes that may be beneficial to the end user
+# Code of Conduct
+Please refer to the CODE_OF_CONDUCT.md file in this directory. Report any violations to info@corlina.com
