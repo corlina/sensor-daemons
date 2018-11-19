@@ -7,7 +7,7 @@ Here are some basic principles for contributing:
 1. Include a short description for the application
 1. Installation instructions for the application itself
 1. Hardware setup instructions - pictures are wonderful! You could link to a website but this will require that you keep that link current.
-1. Test your application throughly and include the steps and results to help others
+1. Test your application thoroughly and include the steps and results to help others
 1. Include any caveats where the application may not work as expected
 1. Any other notes that may be beneficial to the end user
 # Code of Conduct
