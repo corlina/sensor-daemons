@@ -1,3 +1,5 @@
+#### NOTE: Please review our code of conduct and project README files prior to accessing these project files.
+
 # BF-001-IFM-PYTHON
 Daemon for IFM temperature and vibration sensors
 
@@ -119,10 +121,19 @@ Log rotation management is handled in the log rotation daemon’s (logrotate) co
 
 /etc/logrotate.d/daemon3 File 
 /var/log/daemon3/*.log { 
+
 daily 
+
 rotate 7 
+
 missingok 
+
 dateext 
+
 copytruncate 
+
 compress 
-notifempty }
+
+notifempty 
+
+}
